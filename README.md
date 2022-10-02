@@ -11,4 +11,4 @@ Download areanotifier.gsc and put it in your Plutonium T6 scripts folder
 (if the folder isnt there create them)
 
 
-OR you may use the source code/uncompiled version by using perkbonuspoints_sourcecode.gsc but if you don't know what youre doing in terms of GSC, I highly recommend you use the first choice
+OR you may use the source code/uncompiled version by using areanotifier_sourcecode.gsc but if you don't know what youre doing in terms of GSC, I highly recommend you use the first choice
